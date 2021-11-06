@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rbootstrap/static/css/main.dfacca15.chunk.css",
+    "main.js": "/rbootstrap/static/js/main.487ffc3a.chunk.js",
+    "main.js.map": "/rbootstrap/static/js/main.487ffc3a.chunk.js.map",
+    "runtime-main.js": "/rbootstrap/static/js/runtime-main.599003f4.js",
+    "runtime-main.js.map": "/rbootstrap/static/js/runtime-main.599003f4.js.map",
+    "static/js/2.b96a89c0.chunk.js": "/rbootstrap/static/js/2.b96a89c0.chunk.js",
+    "static/js/2.b96a89c0.chunk.js.map": "/rbootstrap/static/js/2.b96a89c0.chunk.js.map",
+    "static/js/3.ebc8dd05.chunk.js": "/rbootstrap/static/js/3.ebc8dd05.chunk.js",
+    "static/js/3.ebc8dd05.chunk.js.map": "/rbootstrap/static/js/3.ebc8dd05.chunk.js.map",
+    "index.html": "/rbootstrap/index.html",
+    "static/css/main.dfacca15.chunk.css.map": "/rbootstrap/static/css/main.dfacca15.chunk.css.map",
+    "static/js/2.b96a89c0.chunk.js.LICENSE.txt": "/rbootstrap/static/js/2.b96a89c0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rbootstrap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.599003f4.js",
+    "static/js/2.b96a89c0.chunk.js",
+    "static/css/main.dfacca15.chunk.css",
+    "static/js/main.487ffc3a.chunk.js"
+  ]
+}
